@@ -47,7 +47,9 @@ function LandingPage() {
 				</nav>
 			</header>
 			<main className="app__body">
-				
+				<div>
+        			<Link to="/home">Home</Link>
+      			</div>
 			</main>
 		</div>
 	);
