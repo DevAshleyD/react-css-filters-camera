@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import { Link } from 'react-router-dom'
-import "./App.css"
+import "./LandingPage.css"
 import { AiOutlineMail, AiOutlineMenu } from "react-icons/ai"
 
 const userPrefersDark = localStorage.darkMode
